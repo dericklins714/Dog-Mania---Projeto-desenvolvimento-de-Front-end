@@ -9,4 +9,4 @@ Estrutura das páginas/seções: Estruturad simples de Html, Css e Java .
 
 Funcionalidades implementadas: Menu de interação onde pode se escolher para qual pagina ir(home, sobre nós, cardapio e contato), botão que te oferece uma promoção ao clicar e formulario para se candidatar a uma possivel vaga de emprego na lanchonete, junto com o telefone para contato.
 
-Link para acesso ao GitHub Pages: https://github.com/dericklins714/Dog-Mania---Projeto-desenvolvimento-de-Front-end/blob/main/Html%20Dogmania.html 
+Link para acesso ao GitHub Pages:

@@ -8,4 +8,4 @@ Estrutura das páginas/seções: Estruturas simples de Html, Css e JavaScript.
 
 Funcionalidades implementadas: interação no menu(home, sonre nós, cardápio, contato), botão interativo que te oferece uma oferta ao clicar e formulario para possivel vaga de emprego
 
-Link para acesso ao GitHub Page:
+Link para acesso ao GitHub Page: https://github.com/dericklins714/Dog-Mania---Projeto-desenvolvimento-de-Front-end/blob/main/Html%20Dogmania.html

@@ -1,0 +1,100 @@
+css
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+header{
+    background:#d62828;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+    font-weight:bold;
+}
+
+section{
+    padding:40px;
+}
+
+#home{
+    text-align:center;
+    background:#ffe8a1;
+}
+
+#sobre{
+    background:white;
+}
+
+#cardapio{
+    background:#f8f9fa;
+}
+
+.produto{
+    background:white;
+    padding:15px;
+    margin:15px 0;
+    border-radius:8px;
+    box-shadow:0 0 5px rgba(0,0,0,0.2);
+}
+
+.produto span{
+    color:red;
+    font-weight:bold;
+}
+
+#contato{
+    background:white;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    max-width:400px;
+}
+
+input,
+textarea{
+    margin-bottom:10px;
+    padding:10px;
+}
+
+button{
+    background:#d62828;
+    color:white;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#a4161a;
+}
+
+#resultado{
+    margin-top:15px;
+    font-weight:bold;
+    color:green;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
